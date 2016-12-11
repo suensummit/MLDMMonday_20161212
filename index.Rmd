@@ -1,0 +1,21 @@
+---
+title: "資料新聞１２３"
+subtitle: MLDM Monday
+author: "Summit Suen"
+date: "12/12/2016"
+output: 
+  ioslides_presentation:
+    theme: readable
+    highlight: espresso
+    css: styles/main.css
+---
+
+# 今天想跟大家聊聊地圖
+
+# 從英國脫歐
+![](images/brexit_map_1.png)
+
+# 到美國大選
+![](images/vote2016_map_1.png)
+
+---
