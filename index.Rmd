@@ -13,9 +13,47 @@ output:
 # 今天想跟大家聊聊地圖
 
 # 從英國脫歐
+
+---
+
 ![](images/brexit_map_1.png)
 
+---
+
+![](images/brexit_map_2.png)
+
 # 到美國大選
+
+---
+
 ![](images/vote2016_map_1.png)
 
 ---
+
+![](images/vote2016_map_2.png)
+
+---
+
+![](images/vote2016_map_3.png)
+
+# 台灣也不落人後（？
+
+---
+
+![](images/egis_fanpage_post_1.png)
+
+---
+
+![](images/egis_fanpage_post_2.png)
+
+---
+
+![](images/egis_carto_post_1.png)
+
+---
+
+![](images/egis_carto_post_2.png)
+
+---
+
+![](images/egis_carto_post_3.png)
